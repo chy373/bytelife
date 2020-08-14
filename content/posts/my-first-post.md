@@ -1,9 +1,8 @@
 ---
 title: "My First Post"
-draft: true
+draft: false
 toc: false
 images:
-tags: 
+tags:
   - untagged
 ---
-
